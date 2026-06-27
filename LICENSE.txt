@@ -1,0 +1,14 @@
+This font is a fan-made recreation inspired by the Universal Script
+writing system from Honkai: Star Rail, developed by HoYoverse (miHoYo).
+All rights to the original script design belong to HoYoverse.
+
+Permission is granted to:
+- Use this font for personal, non-commercial, and fan projects
+- Share this font freely with attribution
+
+You may NOT:
+- Sell this font or include it in paid products
+- Claim ownership of the original script design
+- Remove this license from distributions
+
+This font is provided "as is" without warranty of any kind.
